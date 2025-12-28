@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Jakub, an algorithmic trader based in Slovakia.
+
+I mostly work on developing, testing, and trading algorithmic trading systems.
+
+I use Pinescript, MQL, and Python for my projects.
+
+On my profile, I will upload and document some of my projects, experiments, and things I'm currently working on. 
+
+
+
+
