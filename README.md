@@ -5,9 +5,6 @@ AI Engineer & Trader building agent workflows, quant research systems, and tradi
 </h3>
 
 <p align="center">
-  <a href="https://github.com/janzofx">
-    <img src="https://komarev.com/ghpvc/?username=janzofx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
   <img src="https://img.shields.io/badge/Focus-AI%20Automation-blue" />
   <img src="https://img.shields.io/badge/Trading-Quant%20Systems-green" />
   <img src="https://img.shields.io/badge/Open%20To-Remote%20%7C%20Freelance-orange" />
@@ -17,7 +14,7 @@ AI Engineer & Trader building agent workflows, quant research systems, and tradi
   <a href="https://www.linkedin.com/in/jakub-jan%C5%BEo-431199296/">
     <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Jan%C5%BEo-blue?logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:janzo.fx@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" />
   </a>
   <a href="https://github.com/janzofx">
@@ -109,48 +106,6 @@ Examples:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=janzofx&repo=opencode-notify-plugin&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
----
-
-## Project Highlights
-
-### Agent Observatory
-
-A VS Code dashboard for monitoring Claude Code, OpenCode, and Codex sessions locally.
-
-**Built for:** AI developers running multiple coding agents and needing visibility into activity, idle states, session logs, and workflow status.
-
-**Stack:** TypeScript, React, Node.js, VS Code API, local session logs.
-
----
-
-### Trading Journal
-
-A trading journal and analytics tool designed around MT5 workflows.
-
-**Built for:** Tracking trades, reviewing performance, tagging strategies, analyzing equity curve, and improving trading decision quality.
-
-**Stack:** Java, Swing, MQL5, trading analytics.
-
----
-
-### NVIDIA Portfolio Analyst
-
-A multi-agent stock portfolio analysis system using market data, risk metrics, and LLM reasoning.
-
-**Built for:** Automated portfolio analysis, market research, risk review, and structured investment reports.
-
-**Stack:** Python, pandas, NumPy, yfinance, NVIDIA NIM.
-
----
-
-### OpenCode Notify Plugin
-
-A lightweight notification plugin for OpenCode workflows.
-
-**Built for:** Getting alerts when OpenCode is idle, needs permission, or requires user attention.
-
-**Stack:** TypeScript, Bun, PowerShell.
 
 ---
 
@@ -267,7 +222,7 @@ My background is self-directed, practical, and execution-focused. I care about b
   <a href="https://www.linkedin.com/in/jakub-jan%C5%BEo-431199296/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:janzo.fx@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Message-red?logo=gmail" />
   </a>
   <a href="https://github.com/janzofx">
